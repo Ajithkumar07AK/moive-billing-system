@@ -1,0 +1,19 @@
+:root {
+  --color-bg-deep: #05030f;
+  --color-bg-surface: #0a0820;
+  --color-neon-blue: #4f6bff;
+  --color-neon-violet: #8b5cf6;
+  --color-neon-pink: #c084fc;
+}
+
+.theme-glow-blue {
+  box-shadow: 0 0 25px rgba(79, 107, 255, 0.35);
+}
+
+.theme-glow-violet {
+  box-shadow: 0 0 25px rgba(139, 92, 246, 0.35);
+}
+
+.theme-glow-pink {
+  box-shadow: 0 0 25px rgba(192, 132, 252, 0.35);
+}

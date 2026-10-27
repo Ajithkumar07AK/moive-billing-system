@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Cinema",
+  "description": "Premium limitless anime-fantasy movie ticket booking experience with real-time seat locking, screen selection, interactive payments, and QR tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
